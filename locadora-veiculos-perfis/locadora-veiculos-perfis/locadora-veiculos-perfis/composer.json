@@ -1,0 +1,15 @@
+{
+  "name": "locadora/livros",
+  "description": "Sistema de Locadora de Livros",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Interfaces\\": "interfaces/",
+      "Models\\": "models/",
+      "Services\\": "services/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}

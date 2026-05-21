@@ -1,0 +1,23 @@
+[
+    {
+        "tipo": "Comum",
+        "titulo": "\u00c9 assim que acaba",
+        "autor": "Colleen Hoover",
+        "isbn": "978-85-359-0277-5",
+        "disponivel": false
+    },
+    {
+        "tipo": "Comum",
+        "titulo": "O lado feio do amor",
+        "autor": "Colleen Hoover",
+        "isbn": "978-85-359-0300-0",
+        "disponivel": false
+    },
+    {
+        "tipo": "Comum",
+        "titulo": "O corti\u00e7o",
+        "autor": "Aluiso Azevedo",
+        "isbn": "9788765678",
+        "disponivel": true
+    }
+]
